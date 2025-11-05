@@ -1,4 +1,4 @@
-# Long Studio
+# Long Dev Group
 ### Our Projects
 - [Mobile App](https://github.com/LongWallPic/LongWallPic_Expo_version) -- Our mobile client App build with the Expo Platform
 - [Creator Web Client](https://github.com/LongWallPic/LongWallPic_Creater_App) -- Our web client for Creators built with the Next.js Framework
